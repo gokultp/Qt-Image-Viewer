@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Folder-examles.png</file>
+        <file>Counterclockwise-arrow.png</file>
+        <file>Clockwise-arrow.png</file>
+        <file>Oxygen-Icons.org-Oxygen-Actions-window-close.ico</file>
+    </qresource>
+</RCC>
